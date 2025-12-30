@@ -1,0 +1,5 @@
+{
+  "name": "ResumeAI Pro Analyzer",
+  "description": "A high-performance resume analysis tool powered by Gemini that evaluates resumes against job descriptions, provides scoring, identifies skill gaps, and suggests modern tech stack improvements for MERN developers.",
+  "requestFramePermissions": []
+}
